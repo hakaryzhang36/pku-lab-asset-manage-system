@@ -1,0 +1,10 @@
+server:
+  port: 8080
+##打开自定义以配置
+spring:
+  servlet:
+    multipart:
+      max-file-size: 500MB
+      max-request-size: 500MB
+      enabled: true
+

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:44:26 CST 2024
+sisu-inject-bean-1.4.2.jar>central=
+sisu-inject-bean-1.4.2.pom>nexus-aliyun=
+sisu-inject-bean-1.4.2.pom>central=
+sisu-inject-bean-1.4.2.jar>nexus-aliyun=

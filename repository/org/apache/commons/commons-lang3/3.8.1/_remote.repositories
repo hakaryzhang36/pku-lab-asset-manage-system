@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+commons-lang3-3.8.1.jar>central=
+commons-lang3-3.8.1.pom>central=
+commons-lang3-3.8.1.jar>meituan-offline-releases=
+commons-lang3-3.8.1.pom>nexus-aliyun=
+commons-lang3-3.8.1.jar>nexus-aliyun=
+commons-lang3-3.8.1.pom>meituan-offline-releases=

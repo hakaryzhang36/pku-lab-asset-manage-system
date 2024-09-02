@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:52 CST 2024
+groovy-bom-4.0.15.pom>meituan-offline-releases=
+groovy-bom-4.0.15.pom>central=
+groovy-bom-4.0.15.pom>nexus-aliyun=

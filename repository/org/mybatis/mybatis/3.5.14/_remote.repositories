@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+mybatis-3.5.14.pom>central=
+mybatis-3.5.14.jar>meituan-offline-releases=
+mybatis-3.5.14.pom>nexus-aliyun=
+mybatis-3.5.14.jar>nexus-aliyun=
+mybatis-3.5.14.pom>meituan-offline-releases=
+mybatis-3.5.14.jar>central=

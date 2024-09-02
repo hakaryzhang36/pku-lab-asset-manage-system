@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+mockito-core-2.23.4.jar>nexus-aliyun=
+mockito-core-2.23.4.jar>central=
+mockito-core-2.23.4.jar>meituan-offline-releases=
+mockito-core-2.23.4.pom>central=
+mockito-core-2.23.4.pom>meituan-offline-releases=
+mockito-core-2.23.4.pom>nexus-aliyun=

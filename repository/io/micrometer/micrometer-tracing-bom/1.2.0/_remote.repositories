@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:56 CST 2024
+micrometer-tracing-bom-1.2.0.pom>meituan-offline-releases=
+micrometer-tracing-bom-1.2.0.pom>nexus-aliyun=
+micrometer-tracing-bom-1.2.0.pom>central=

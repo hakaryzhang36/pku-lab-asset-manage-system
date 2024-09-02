@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+curvesapi-1.06.jar>nexus-aliyun=
+curvesapi-1.06.pom>meituan-offline-releases=
+curvesapi-1.06.jar>meituan-offline-releases=
+curvesapi-1.06.pom>nexus-aliyun=

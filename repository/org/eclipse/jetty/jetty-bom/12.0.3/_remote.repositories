@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:54 CST 2024
+jetty-bom-12.0.3.pom>central=
+jetty-bom-12.0.3.pom>nexus-aliyun=
+jetty-bom-12.0.3.pom>meituan-offline-releases=

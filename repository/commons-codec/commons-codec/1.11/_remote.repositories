@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+commons-codec-1.11.pom>meituan-offline-releases=
+commons-codec-1.11.jar>central=
+commons-codec-1.11.pom>central=
+commons-codec-1.11.pom>nexus-aliyun=
+commons-codec-1.11.jar>nexus-aliyun=
+commons-codec-1.11.jar>meituan-offline-releases=

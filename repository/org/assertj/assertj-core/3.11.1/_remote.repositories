@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+assertj-core-3.11.1.pom>central=
+assertj-core-3.11.1.jar>meituan-offline-releases=
+assertj-core-3.11.1.pom>nexus-aliyun=
+assertj-core-3.11.1.jar>nexus-aliyun=
+assertj-core-3.11.1.pom>meituan-offline-releases=
+assertj-core-3.11.1.jar>central=

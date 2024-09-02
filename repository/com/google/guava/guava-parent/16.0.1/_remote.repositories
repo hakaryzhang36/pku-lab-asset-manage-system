@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:04 CST 2024
+guava-parent-16.0.1.pom>central=
+guava-parent-16.0.1.pom>meituan-offline-releases=
+guava-parent-16.0.1.pom>nexus-aliyun=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:48 CST 2024
+assertj-parent-pom-2.2.1.pom>central=
+assertj-parent-pom-2.2.1.pom>meituan-offline-releases=
+assertj-parent-pom-2.2.1.pom>nexus-aliyun=

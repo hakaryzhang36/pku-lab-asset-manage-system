@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:59 CST 2024
+spring-ws-bom-4.0.8.pom>central=
+spring-ws-bom-4.0.8.pom>nexus-aliyun=
+spring-ws-bom-4.0.8.pom>meituan-offline-releases=

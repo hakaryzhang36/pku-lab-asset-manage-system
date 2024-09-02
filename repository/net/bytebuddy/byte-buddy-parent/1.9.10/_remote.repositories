@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:49 CST 2024
+byte-buddy-parent-1.9.10.pom>meituan-offline-releases=
+byte-buddy-parent-1.9.10.pom>nexus-aliyun=
+byte-buddy-parent-1.9.10.pom>central=

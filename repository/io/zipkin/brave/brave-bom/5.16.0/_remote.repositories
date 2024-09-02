@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:51 CST 2024
+brave-bom-5.16.0.pom>nexus-aliyun=
+brave-bom-5.16.0.pom>meituan-offline-releases=
+brave-bom-5.16.0.pom>central=

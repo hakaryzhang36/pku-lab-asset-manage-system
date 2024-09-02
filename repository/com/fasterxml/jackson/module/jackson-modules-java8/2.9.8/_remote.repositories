@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:41 CST 2024
+jackson-modules-java8-2.9.8.pom>nexus-aliyun=
+jackson-modules-java8-2.9.8.pom>meituan-offline-releases=
+jackson-modules-java8-2.9.8.pom>central=

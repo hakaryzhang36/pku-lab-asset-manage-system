@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+mybatis-spring-boot-starter-3.0.3.jar>nexus-aliyun=
+mybatis-spring-boot-starter-3.0.3.jar>central=
+mybatis-spring-boot-starter-3.0.3.jar>meituan-offline-releases=
+mybatis-spring-boot-starter-3.0.3.pom>central=
+mybatis-spring-boot-starter-3.0.3.pom>nexus-aliyun=
+mybatis-spring-boot-starter-3.0.3.pom>meituan-offline-releases=

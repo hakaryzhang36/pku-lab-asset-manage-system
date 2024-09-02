@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:00 CST 2024
+testcontainers-bom-1.19.3.pom>central=
+testcontainers-bom-1.19.3.pom>meituan-offline-releases=
+testcontainers-bom-1.19.3.pom>nexus-aliyun=

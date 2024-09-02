@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:34 CST 2024
+spring-data-build-2.1.5.RELEASE.pom>nexus-aliyun=
+spring-data-build-2.1.5.RELEASE.pom>central=
+spring-data-build-2.1.5.RELEASE.pom>meituan-offline-releases=

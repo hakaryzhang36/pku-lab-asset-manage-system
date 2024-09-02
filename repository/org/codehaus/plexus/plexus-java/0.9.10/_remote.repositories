@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:44:34 CST 2024
+plexus-java-0.9.10.jar>nexus-aliyun=
+plexus-java-0.9.10.jar>central=
+plexus-java-0.9.10.pom>central=
+plexus-java-0.9.10.pom>nexus-aliyun=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+commons-compress-1.19.jar>meituan-offline-releases=
+commons-compress-1.19.pom>meituan-offline-releases=
+commons-compress-1.19.pom>nexus-aliyun=
+commons-compress-1.19.jar>nexus-aliyun=

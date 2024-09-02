@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+commons-collections4-4.4.jar>meituan-offline-releases=
+commons-collections4-4.4.pom>nexus-aliyun=
+commons-collections4-4.4.jar>nexus-aliyun=
+commons-collections4-4.4.pom>meituan-offline-releases=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:51 CST 2024
+zipkin-reporter-bom-2.16.3.pom>central=
+zipkin-reporter-bom-2.16.3.pom>nexus-aliyun=
+zipkin-reporter-bom-2.16.3.pom>meituan-offline-releases=

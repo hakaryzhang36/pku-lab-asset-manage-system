@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+poi-ooxml-4.1.1.pom>nexus-aliyun=
+poi-ooxml-4.1.1.pom>meituan-offline-releases=
+poi-ooxml-4.1.1.jar>nexus-aliyun=
+poi-ooxml-4.1.1.jar>meituan-offline-releases=

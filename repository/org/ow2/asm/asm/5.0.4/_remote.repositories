@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+asm-5.0.4.jar>central=
+asm-5.0.4.pom>nexus-aliyun=
+asm-5.0.4.jar>meituan-offline-releases=
+asm-5.0.4.pom>central=
+asm-5.0.4.jar>nexus-aliyun=
+asm-5.0.4.pom>meituan-offline-releases=

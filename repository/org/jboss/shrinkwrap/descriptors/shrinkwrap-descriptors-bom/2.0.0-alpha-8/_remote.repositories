@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:44 CST 2024
+shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom>nexus-aliyun=
+shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom>meituan-offline-releases=
+shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom>central=

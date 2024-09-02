@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+tomcat-embed-core-9.0.16.pom>nexus-aliyun=
+tomcat-embed-core-9.0.16.jar>central=
+tomcat-embed-core-9.0.16.jar>nexus-aliyun=
+tomcat-embed-core-9.0.16.jar>meituan-offline-releases=
+tomcat-embed-core-9.0.16.pom>central=
+tomcat-embed-core-9.0.16.pom>meituan-offline-releases=

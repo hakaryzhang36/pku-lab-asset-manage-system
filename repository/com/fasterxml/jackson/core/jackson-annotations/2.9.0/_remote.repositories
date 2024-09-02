@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+jackson-annotations-2.9.0.jar>meituan-offline-releases=
+jackson-annotations-2.9.0.pom>meituan-offline-releases=
+jackson-annotations-2.9.0.jar>central=
+jackson-annotations-2.9.0.pom>central=
+jackson-annotations-2.9.0.pom>nexus-aliyun=
+jackson-annotations-2.9.0.jar>nexus-aliyun=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:57 CST 2024
+ojdbc-bom-23.3.0.23.09.pom>meituan-offline-releases=
+ojdbc-bom-23.3.0.23.09.pom>nexus-aliyun=
+ojdbc-bom-23.3.0.23.09.pom>central=

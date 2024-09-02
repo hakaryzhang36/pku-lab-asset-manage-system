@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:33 CST 2024
+jersey-bom-2.27.pom>central=
+jersey-bom-2.27.pom>nexus-aliyun=
+jersey-bom-2.27.pom>meituan-offline-releases=

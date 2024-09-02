@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+spring-beans-5.1.5.RELEASE.jar>meituan-offline-releases=
+spring-beans-5.1.5.RELEASE.pom>nexus-aliyun=
+spring-beans-5.1.5.RELEASE.pom>meituan-offline-releases=
+spring-beans-5.1.5.RELEASE.jar>central=
+spring-beans-5.1.5.RELEASE.jar>nexus-aliyun=
+spring-beans-5.1.5.RELEASE.pom>central=

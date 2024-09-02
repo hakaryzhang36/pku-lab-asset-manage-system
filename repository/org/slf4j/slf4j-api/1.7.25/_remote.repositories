@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+slf4j-api-1.7.25.jar>central=
+slf4j-api-1.7.25.pom>central=
+slf4j-api-1.7.25.pom>meituan-offline-releases=
+slf4j-api-1.7.25.pom>nexus-aliyun=
+slf4j-api-1.7.25.jar>nexus-aliyun=
+slf4j-api-1.7.25.jar>meituan-offline-releases=

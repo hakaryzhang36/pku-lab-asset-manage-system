@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:47:22 CST 2024
+guice-4.0-no_aop.jar>nexus-aliyun=
+guice-4.0.pom>central=
+guice-4.0-no_aop.jar>central=
+guice-4.0.pom>nexus-aliyun=

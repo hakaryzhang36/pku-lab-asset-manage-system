@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:47:22 CST 2024
+jsr250-api-1.0.jar>nexus-aliyun=
+jsr250-api-1.0.jar>central=
+jsr250-api-1.0.pom>central=
+jsr250-api-1.0.pom>nexus-aliyun=

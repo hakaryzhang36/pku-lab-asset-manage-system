@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+accessors-smart-1.2.jar>meituan-offline-releases=
+accessors-smart-1.2.jar>central=
+accessors-smart-1.2.pom>central=
+accessors-smart-1.2.pom>nexus-aliyun=
+accessors-smart-1.2.jar>nexus-aliyun=
+accessors-smart-1.2.pom>meituan-offline-releases=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:52 CST 2024
+project-1.0.8.pom>nexus-aliyun=
+project-1.0.8.pom>meituan-offline-releases=
+project-1.0.8.pom>central=

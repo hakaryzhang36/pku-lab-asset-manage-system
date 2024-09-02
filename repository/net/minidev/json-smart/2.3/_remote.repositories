@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+json-smart-2.3.jar>central=
+json-smart-2.3.jar>meituan-offline-releases=
+json-smart-2.3.pom>central=
+json-smart-2.3.pom>nexus-aliyun=
+json-smart-2.3.jar>nexus-aliyun=
+json-smart-2.3.pom>meituan-offline-releases=

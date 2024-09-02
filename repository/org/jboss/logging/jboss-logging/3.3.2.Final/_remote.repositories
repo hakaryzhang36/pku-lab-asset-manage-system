@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:18:11 CST 2024
+jboss-logging-3.3.2.Final.pom>central=
+jboss-logging-3.3.2.Final.pom>nexus-aliyun=
+jboss-logging-3.3.2.Final.jar>nexus-aliyun=
+jboss-logging-3.3.2.Final.pom>meituan-offline-releases=
+jboss-logging-3.3.2.Final.jar>meituan-offline-releases=
+jboss-logging-3.3.2.Final.jar>central=

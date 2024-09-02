@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:57 CST 2024
+reactor-bom-2023.0.0.pom>nexus-aliyun=
+reactor-bom-2023.0.0.pom>central=
+reactor-bom-2023.0.0.pom>meituan-offline-releases=

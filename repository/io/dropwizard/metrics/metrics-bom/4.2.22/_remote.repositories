@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:52 CST 2024
+metrics-bom-4.2.22.pom>meituan-offline-releases=
+metrics-bom-4.2.22.pom>nexus-aliyun=
+metrics-bom-4.2.22.pom>central=

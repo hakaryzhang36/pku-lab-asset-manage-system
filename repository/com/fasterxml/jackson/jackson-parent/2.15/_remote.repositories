@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 10 19:17:54 CST 2024
+jackson-parent-2.15.pom>meituan-offline-releases=
+jackson-parent-2.15.pom>nexus-aliyun=
+jackson-parent-2.15.pom>central=
